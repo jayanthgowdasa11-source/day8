@@ -1,2 +1,1 @@
-# day8
-sql
+# sql-day2
